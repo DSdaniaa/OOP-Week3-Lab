@@ -1,0 +1,7 @@
+C:\OOP\Lab3\week03Lab\week03Lab\bin\Debug\week03Lab.exe.config
+C:\OOP\Lab3\week03Lab\week03Lab\bin\Debug\week03Lab.exe
+C:\OOP\Lab3\week03Lab\week03Lab\bin\Debug\week03Lab.pdb
+C:\OOP\Lab3\week03Lab\week03Lab\obj\Debug\week03Lab.csproj.AssemblyReference.cache
+C:\OOP\Lab3\week03Lab\week03Lab\obj\Debug\week03Lab.csproj.CoreCompileInputs.cache
+C:\OOP\Lab3\week03Lab\week03Lab\obj\Debug\week03Lab.exe
+C:\OOP\Lab3\week03Lab\week03Lab\obj\Debug\week03Lab.pdb
